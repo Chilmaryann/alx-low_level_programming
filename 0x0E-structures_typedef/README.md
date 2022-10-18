@@ -1,1 +1,1 @@
-this is a README.md file
+another c code that covers the use of structures and type def
