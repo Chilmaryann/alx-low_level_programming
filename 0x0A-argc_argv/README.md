@@ -1,1 +1,1 @@
-this is a README.md file
+a c code that covers the use of arguments to  perform specific tasks
